@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_order_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:paddingHorizontal="@dimen/_10sdp"
+    android:paddingVertical="@dimen/_10sdp"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/tv_item"
+        android:paddingEnd="@dimen/_5sdp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.4"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_10ssp" />
+
+    <TextView
+        android:id="@+id/tv_quantity"
+        android:layout_width="0dp"
+        android:paddingEnd="@dimen/_5sdp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_10ssp" />
+
+    <TextView
+        android:id="@+id/tv_unit_price"
+        android:layout_width="0dp"
+        android:paddingEnd="@dimen/_5sdp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_10ssp" />
+
+    <TextView
+        android:id="@+id/tv_total"
+        android:layout_width="0dp"
+        android:paddingEnd="@dimen/_5sdp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_10ssp" />
+</LinearLayout>

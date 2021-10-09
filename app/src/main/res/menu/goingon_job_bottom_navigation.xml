@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_job_status"
+        android:icon="@mipmap/ic_tab_jobstatus"
+        android:title="@string/job_status" />
+
+    <item
+        android:id="@+id/action_parts_request"
+        android:icon="@mipmap/ic_tab_part_require"
+        android:title="@string/parts_request" />
+
+    <item
+        android:id="@+id/action_job_notes"
+        android:icon="@mipmap/ic_tab_jobnotes"
+        android:title="@string/job_notes"/>
+    <item
+        android:id="@+id/action_message"
+        android:icon="@mipmap/ic_tab_message"
+        android:title="@string/message"/>
+</menu>

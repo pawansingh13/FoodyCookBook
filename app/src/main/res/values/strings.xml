@@ -1,0 +1,477 @@
+<resources>
+    <string name="app_name">FoodyCookBook</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="code_by">Code By</string>
+    <string name="comp_name">Source Soft Solutions</string>
+    <string name="patents_pending">Patents Pending</string>
+    <string name="comp_tag_line">We only believe in the best</string>
+    <string name="technician_app">Technician App</string>
+    <string name="app_info"><![CDATA[This is the technician app. If you were looking for the customer app, it can be found <b><u>here.</b></u>
+                            <br /><br />
+                            If you are a new technician, please signup; otherwise, sign in.]]></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome_back">Welcome $ back !</string>
+    <string name="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="support_online">Support: Online or (844) 4DA-Geek</string>
+
+    <string-array name="upload_photo">
+        <item>Take Photo</item>
+        <item>Choose from Gallery</item>
+        <item>Cancel</item>
+    </string-array>
+
+    <!--Sign Up Skills-->
+    <string name="app_interest"><![CDATA[Thank you for your interest in registering as a contractor. <br /><br />
+                            Please indicate your area(s) of skill so that we may best direct your registration process:]]></string>
+    <string name="continue_text">Continue</string>
+    <string name="thanks_for_listing_your_skills">Thanks for listing your skills.</string>
+    <string name="complete_the_registration_process">To complete the registration process, you will need to complete the following process.</string>
+    <string name="cell_verification">Cell # Verification</string>
+    <string name="email_address_verification">Email Address Verification</string>
+    <string name="online_skills_test">Online Skills Test</string>
+    <string name="driver_s_licence_state_id_verification">Driver\'s Licence / State ID Verification</string>
+    <string name="uses_charges">*($6 charge, refunded after first $80 of paid work)</string>
+    <string name="criminal_background_check">Criminal Background Check</string>
+    <string name="sign_up_info_note">*Note: There will be $32 additional charge to complete your registration if your skill tests do not qualify you to provide [followed by list of skills they selected that qualify for #ES# waiver]</string>
+    <string name="login_details">LOGIN DETAILS</string>
+    <string name="email_address">Email Address</string>
+    <string name="fullname">Fullname</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="cell">Cell #</string>
+    <string name="mailing_address">Mailing Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zipcode">ZipCode</string>
+    <string name="city_with_star">City*</string>
+    <string name="state_with_star">State*</string>
+    <string name="zipcode_with_star">ZipCode*</string>
+    <string name="upload_documents">UPLOAD DOCUMENTS</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="internet_error">Internet Error</string>
+    <string name="please_check_your_network_connection">Please check your network connection !</string>
+
+    <string name="registered_as">REGISTERED AS</string>
+    <string name="driving_licence_png_jpg_pdf">Driving Licence (PNG, JPG, PDF)</string>
+    <string name="enter_4_digit_code_sent_to_your_cell">ENTER 4-DIGIT CODE SENT TO YOUR %1$s</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="a_4_digit_code_has_been_sent_to_your_mobile">A 4-digit code has been sent to your mobile #, %1$s</string>
+    <string name="verify_your_mobile_number_please_type_code">To verify your mobile number #, Please type the code which was sent your mobile number.</string>
+    <string name="resend_code"><![CDATA[<u>Resend Code</u>]]></string>
+    <string name="re_enter_cell">Re-Enter Cell #</string>
+    <string name="mail">MAIL</string>
+    <string name="cell_number">CELL</string>
+    <string name="email_verification_text_1">Another 4-digit code has been sent via email to your email address, %1$s</string>
+    <string name="email_verification_text_2">To verify your email address, Please type the code which was sent in the email:</string>
+    <string name="i_did_not_get_the_code">I didn\'t get the code.</string>
+    <string name="change_email">Change Email Address</string>
+    <string name="please_enter_the_email_id">Please enter the EMAIL ID</string>
+    <string name="please_enter_the_mobile_number">Please enter the MOBILE NUMBER</string>
+    <string name="business_details">Business Details</string>
+    <string name="business_name">Business Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="website">Website</string>
+    <string name="registration_documents">Registration Documents</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="business_liability_insurance">BUSINESS LIABILITY INSURANCE(OPTIONAL)</string>
+    <string name="commision_message">Your commission paid to [HAILaGEEK] will be even lower (y % vs x %) if you happen to have general business liability insurance</string>
+    <string name="age_of_coverage">Age of Coverage($)</string>
+    <string name="start_date">Start Date</string>
+    <string name="valid_till_date">Valid Till Date</string>
+    <string name="upload_first_page_of_insurance">Upload First Page of Insurance</string>
+
+    <string name="terms_of_service_part_1_msg">Please read the Terms of Use all the way to the bottom, then type your name above and click "I Agree."</string>
+    <string name="type_your_name">Type Your Name</string>
+    <string name="i_agree">I Agree</string>
+    <string name="your_identity_has_been_confirmed">Your identity has been confirmed</string>
+    <string name="your_identity_has_been_confirmed_msg"><![CDATA[Next you will recieve ]]></string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="fcm_notification">Hailageek New Notification arrived</string>
+
+    <string name="register">Register</string>
+    <string name="login_using_user_id_or_password">Login Using User ID/Password</string>
+    <string name="call_or_email_address">Cell # or Email Address</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_password">Password</string>
+    <string name="login_using_figerprint">Login Using Fingerprint</string>
+    <string name="forgot_password"><![CDATA[<u>Forgot your Password?</u>]]></string>
+    <string name="login_using_figerprint_info">Place your finger on fingerprint scanner to login</string>
+    <string name="submit">Submit</string>
+    <string name="please_fill_the_below_form">Please fill the below form</string>
+    <string name="first_name">First Name*</string>
+    <string name="enter_first_name">First name</string>
+    <string name="enter_last_name">Last name</string>
+    <string name="enter_contact_number">Phone Number</string>
+    <string name="enter_email_id">Email id</string>
+    <string name="enter_passowrd">Password</string>
+    <string name="enter_confirm_password">Confirm Password</string>
+    <string name="last_name">Last Name</string>
+    <string name="contact_number">Phone Number*</string>
+    <string name="email_id">Email ID*</string>
+    <string name="pass">Password*</string>
+    <string name="confirm_password">Confirm Password*</string>
+    <string name="terms_and_conditions"><![CDATA[Term & conditions]]></string>
+    <string name="please_to_meet_you">Pleased to $ meet you!</string>
+    <string name="title_activity_demo_maps">Map</string>
+    <string name="available_now">Available Now</string>
+    <string name="available_soon">Available Soon</string>
+
+    <!--error Messages-->
+    <string name="server_error">Server Error</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="enable_finger_print_sign_on">Enable Finger Print Sign On</string>
+    <!--<string name="enable_finger_print_sign_on_info">For additional security and convenience, you can enable access to The HAILaGEEK App using the same ic_fingerprint_menu you use to unlock your phone.</string>-->
+    <string name="enable_finger_print_sign_on_info"><![CDATA[For additional security and convenience, you can enable access to <b> The HAILaGEEK App</b> using the same fingerprint you use to unlock your phone.]]></string>
+    <string name="enable_now">Enable Now</string>
+    <string name="skip_for_now">Skip For Now</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="please_enter_mobile_number">Please enter mobile number</string>
+    <string name="please_enter_email_id">Please enter email id</string>
+    <string name="sorry_available_geek_not_available">Sorry available GEEK not available !</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="forgot_password_update">Forgot Passwrod</string>
+    <string name="please_enter_the_cell_no_email_address_info">Please enter the Cell No./email address to retrieve your password.</string>
+    <string name="please_enter_the_cell_or_email_address">Please enter the Cell # or Email address</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="varification_code_info">A 4-digit code has been sent on your registered cell no &amp; email address.\n\n\nPlease type the code which was sent your cell &amp; email address.</string>
+
+    <string name="verify">Verify</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="re_type_password">Re-Type Password</string>
+    <string name="hailageek_here_at_your_gps_location">At Your GPS Location</string>
+    <string name="different_location">Different Location</string>
+    <string name="where_do_you_need_a_geek">Where do you need a</string>
+    <string-array name="nav_drawer_items">
+        <item>Meal</item>
+        <item>Favorite</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="please_again_click_if_you_want_to_exit">Please again click if you want to exit.</string>
+    <string name="here">Here</string>
+    <string name="find_a_geek">Find A Geek</string>
+    <string name="my_account">My Account</string>
+    <string name="referrel_rewards">Referral awards</string>
+    <string name="please_add_address_info_below">Please add address information below</string>
+    <string name="address_line_1">Address Line 1</string>
+    <string name="address_line_2">Address Line 2</string>
+    <string name="zip">ZipCode</string>
+    <string name="who_to_meet_on_site">Who to meet on site</string>
+    <string name="how_to_find_me">How to find me</string>
+    <string name="me">Me</string>
+    <string name="other">other</string>
+    <string name="what_can_we_help_you_with">What can we help you with?</string>
+    <string name="any_specifis_add">Any specifics you want to add?</string>
+    <string name="such_as_sound_not_working">(Such as  \"sound not working\",\"screen  broken\".\"won\'t start\")</string>
+    <string name="confirm">Confirm</string>
+    <string name="may_we_make_an_appointment">May we make an appointment?</string>
+
+    <string name="geek_not_found">Geek not found</string>
+    <string name="no_one_geek_area_matched_info">No geeks are currently available to match that list of categories. Please check back again later, or click OK to request an appointment at a later time that works for you.</string>
+    <string name="show_only_favorite">Show Only Favorites</string>
+    <string name="show_me_the_geeks">Show me the geeks!</string>
+    <string name="please_select_atleast_one_skill">Please select atleast one skill.</string>
+    <string name="please_enter_the_any_specifics_want_to_add">Please enter the any specifics want to add.</string>
+    <string name="geek_not_avialable">Geeks not found</string>
+    <string name="soon_available_geek_not_avialable">Soon avialable geek not avialable</string>
+    <string name="map_view">Map View</string>
+    <string name="list_view">List View</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="rates">Rates</string>
+    <string name="travel">Travel</string>
+    <string name="cost_per_min">Cost/Min</string>
+    <string name="cost_per_hour">Cost/Hour</string>
+    <string name="labor">Labor</string>
+    <string name="customer_reviews">Customer Reviews</string>
+    <string name="travel_with_colon">Travel:</string>
+    <string name="labor_with_colon">Labor:</string>
+    <string name="a_qucik_optional_question">A quick optional question:</string>
+    <string name="due_you_already_have_a_another_estimate">Do you already have a another estimate for the work you need the done?</string>
+    <string name="no_comment">No Comment</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="carry_in">Carry In</string>
+    <string name="on_site">On Site</string>
+    <string name="ship_in">Ship In</string>
+    <string name="is_the_quote_for">Is the quote for...</string>
+    <string name="do_you_thing_the_price_quoted_is_fair">Do you think the price quoted is fair?</string>
+    <string name="amount_of_the_other_quote">Amount of the other quote?</string>
+    <string name="let_get_started">Let\'s get started!</string>
+    <string name="please_address_line_one">Please enter address line one</string>
+    <string name="please_enter_city_name">Please enter city name</string>
+    <string name="please_enter_zip_code">Please enter zip code</string>
+    <string name="please_enter_state_name">Please enter state name</string>
+    <string name="please_enter_how_to_find_me">Please enter how to find me.</string>
+    <string name="favorite_geek_not_available">Favorites geek not available.</string>
+    <string name="not_ready_yet">Not Ready Yet</string>
+    <string name="approve">Approve</string>
+    <string name="et_type_your_responce">Type your responce here</string>
+    <string name="alert">Alert</string>
+
+    <string name="hide">Hide</string>
+    <string name="back_up_agrreement">Backup Agreement</string>
+    <string name="show">Show</string>
+    <string name="sorry_rout_not_found">Sorry rout not found</string>
+    <string name="backup_agreement">Backup Agreement</string>
+    <string name="back_up_agrreement_info">Your data is most valuable part of your device.Protecting your from data loss is very important to us. please indicate whether you would like Tom to make a backup copy of your data.</string>
+    <string name="need_back_up">I need Tom to make a backup copy of the data</string>
+    <string name="need_not_back_up">I choose not to have Tom make a backup copy of my data before other work is begun. Iunderstand that if there is not a good backup copy of the data on the device(s) Tom will work with, that the data will be at risk, and i assume all risk of the data loss.</string>
+    <string name="support">Support</string>
+    <string name="re_enter_cell_no_or_email_address"><![CDATA[<u>Re-Enter Cell no. or email address</u>]]></string>
+    <string name="live_support_info"><![CDATA[Online support is only available during <font color=black><b>8:00 AM to 8:00 PM</b></font><br/><br/><br/>If you prefer to type a notification rather than calling our toll-free support line,
+please type your notification below, then click Submit. Our executive team will get
+in touch with you within the next business day.]]></string>
+    <string name="type_your_message">Type your notification here</string>
+    <string name="finger_print_alrady_enable">Finger print already enable.</string>
+    <string name="geek_offerd_job_info">is being offered the job and will respond within</string>
+    <string name="BIOMETRIC_ERROR_NO_HARDWARE">No biometric features available on this device.</string>
+    <string name="BIOMETRIC_ERROR_HW_UNAVAILABLE">Biometric features are currently unavailable.</string>
+    <string name="BIOMETRIC_ERROR_NONE_ENROLLED">The user hasn\'t associated any biometric credentials.</string>
+    <string name="BIOMETRIC_TITLE">Biometric login for HailaGeek customer.</string>
+    <string name="BIOMETRIC_SUBTITLE">Log in using your biometric credential.</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="AUTHENTICATION_FAILED">Authentication failed</string>
+    <string name="ALERT_MESAAGE">Alert!</string>
+    <string name="OK">OK</string>
+    <string name="FINGERPRINT_OPERATION_CANCELLED_BY_USER">Fingerprint operation cancelled by user.</string>
+
+    <string name="is_already_busy"> is Already busy. Please try after some time.</string>
+    <string name="SORRY">Sorry! </string>
+    <string name="PICK">Pick </string>
+    <string name="empty">Empty</string>
+    <string name="are_you_sure_you_want_to_log_out">Are you sure you want to logout?</string>
+    <string name="sorry_you_are_not_respond_with_in_the_limit">Sorry!! you are not respond with in the time limit.</string>
+
+
+    <string name="offerd_the_job_with_in_time_second"><![CDATA[%1$s is being offerred the job and will respond within<font color=red> %2$s secs</font>]]></string>
+    <string name="responce_with_in_time">Respond within %1$s secs</string>
+    <string name="geek_accepted_the_job_info">%1$s has accepted the job and is ready to head your way.</string>
+    <string name="sorry">We\'re sorry …</string>
+    <string name="not_respond_with_in_time_limit">did not respond within the time limit.</string>
+    <string name="rejected_message">Sorry for inconvience.Your Job Request has been declined by Geek.Please Request another geek.</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="space">\u0020</string>
+    <string name="question_mark">\u0020\?</string>
+    <string name="skip">Skip</string>
+    <string name="decline">Decline</string>
+    <string name="pay_only_travel">Pay Only Travel!</string>
+    <string name="estimated_time">Estimated Time</string>
+    <string name="estimated_cost_info">Based on this time, the</string>
+    <string name="UPDATE_LOCATION">Update user location</string>
+    <string name="has_accepted_the_job_and_is_headed_to_the_job">%1$s has accepted the job and is headed to the job.</string>
+    <string name="will_be_available_in">Will be available in</string>
+    <string name="responded_message">Congrats your job Request is Responded By Geek. Now you can chat with Geek about job. Thanks</string>
+    <string name="remote_session_request_message">Geek is Requesting for Remote Session Please Revert back to Geek. Thanks!</string>
+    <string name="geek">Geek</string>
+    <string name="share_location_with_geek">Share location with %1$s</string>
+    <string name="send_urgent_message_to_geek">Send urgent message to %1$s</string>
+    <string name="please_select_the_option">Please select the option.</string>
+    <string name="live_support_need_help">Need help? We\'re here for you! Press OK below to dial our support team toll free at</string>
+    <string name="name_who_to_meet"> Who to meet</string>
+    <string name="based_on_the_time_total_cost_info">Based on this time. the total cost of this job\n(including travel already completed) will be:</string>
+    <string name="this_is_a_esimate_info_not_a_quote">This is an estimate, not a quote or exact price.If any part are required to complete the job, you will also bo notified of the part costs before any part are purchased.</string>
+    <string name="send_message_to_geek">Send message to %1$s</string>
+    <string name="you_confirmed_backup_info_message">You Confirmed: %1$s to make a backup copy of your data.</string>
+    <string name="job_status">Job Status</string>
+    <string name="parts_request">Parts Request</string>
+    <string name="job_notes">Job Notes</string>
+    <string name="message">Message</string>
+    <string name="colan">:</string>
+    <string name="hours">Hours</string>
+    <string name="mins">Mins</string>
+    <string name="work_timer">Work Timer</string>
+    <string name="we_estimate_the_job_will_be_completed">We Estimate The Job Will Be Completed</string>
+    <string name="estimate_amount">Estimate Amount</string>
+    <string name="plus_sales_tax">Plus Sales Tax</string>
+    <string name="this_estimate_is_only_an_estimate_of_the_billable_info">This estimate is only an estimate of the billable time remaining to complete the job, and does not include any breaks or parts trips.</string>
+    <string name="refer_a_friend">Refer a Friend</string>
+    <string name="referral_awards">Referral Awards</string>
+    <string name="referral_awards_info">A popup windows explains that when  their referred friend spends or earns $ 50 + on HAILaGEEK,we\'ll credit the referring amount for $ 5.</string>
+    <string name="your_referral_link">Your Referral Link</string>
+    <string name="copy">copy</string>
+    <string name="or">Or</string>
+    <string name="add_your_friends_email_address_below">Add your friend\'s email address below.</string>
+    <string name="you_can_multiple_email_address">You can add multiple email address</string>
+    <string name="job_notes_request_info"><![CDATA[%1$s has requested to view job notes from previous <b>HAILaGEEK</b> jobs in order to obtain information which may help complete the job.]]></string>
+    <string name="do_you_approve_request_info">Do you approve %1$s\'s request?</string>
+    <string name="view_notes">View Notes</string>
+    <string name="job_notes_request">Job Notes Request</string>
+    <string name="part_request_info">%1$s has generated a list of  required to complete the job.</string>
+    <string name="part_request">Part Request</string>
+    <string name="including_tex">Including Tax</string>
+    <string name="view_details">View Details</string>
+    <string name="tv_requested_part_for_job_title">Requested parts for this job</string>
+    <string name="sales_tax">Sales tax</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="total">Total</string>
+    <string name="to_be_approve_for_these_parts_to_be_charged_info">Do you approve for these parts to be charged to your card?</string>
+    <string name="qty">Qty</string>
+    <string name="product_name">Product name</string>
+    <string name="price_each">Price each</string>
+    <string name="previous_job_notes">Previous Notes</string>
+    <string name="geek_notes">%1$s Notes</string>
+    <string name="hours_and_minutes"><![CDATA[ <font color=black><b>%1$s</b></font> <small>Hours and </small> <font color=black><b>%2$s</b></font> <small>Minutes</small>]]></string>
+    <string name="get_estimate">Get Estimate</string>
+    <string name="revise">Revise</string>
+    <string name="decline_pay_only_travel"><![CDATA[Decline<br><small>Pay Only Travel!</small>]]></string>
+    <string name="revised_info">If you are revise this estimate. press revise button.</string>
+    <string name="credits_earned">Credits Earned</string>
+    <string name="credits_balance">Credits Balance</string>
+    <string name="hello_user">Hello, %1$s</string>
+    <string name="under_development">Under Development</string>
+    <string name="geek_at_arrived_at_this_side_alert_info">%1$s at arrived at the site, and will be sharing the job estimate soon.</string>
+    <string name="job_estimation_message">Geek has sent you estimates regarding the job please review and give approval to geek, So the work would be started.</string>
+    <string name="customer_pay_and_plus_sales_tax_info"><![CDATA[ <font color=black><b>$ %1$s </b></font><small><b>+</> $ %2$s sales tax</small>]]></string>
+    <string name="chat_history">Chat History</string>
+    <string name="all_notification">All Notification</string>
+    <string name="you_will_be_notified_on_this_screen_of_any_update">You will be notified on this screen of any updates</string>
+    <string name="do_you_approve_part_request_info">Do you approve for these parts to be charged to your card?</string>
+    <string name="are_you_sure_you_want_to_approve">Please Approve your order by clicking OK. Otherwise, click cancel.</string>
+    <string name="are_you_sure_you_want_to_decline">Please click OK to decline your order. Otherwise, click cancel.</string>
+    <string name="parts">%1$d Parts</string>
+    <string name="approved">Approved</string>
+    <string name="view_geek_on_map">View %1$s on Map</string>
+    <string name="geek_is_travling_to_optrain_the_part">%1$s is traveling to obtain the parts</string>
+    <string name="no_part_request_available">No part request available.</string>
+
+    <string name="work_within_the_next_15_minutes">To expidite Tom\'s payment,please examine thework performed, and indicate overall approval of the work within the next 15 Minutes.</string>
+    <string name="text_number_email_address"><![CDATA[Your card has been charged [remaining amount].Your invoice is being sent to [Text number & email address].]]></string>
+    <string name="thank_you_for_your_approval">Thank you for your approval.</string>
+    <string name="mark_as_favorite">Mark as favorite</string>
+    <string name="please_rate_the_hailageek_app">Please rate THE HAILaGEEK App</string>
+    <string name="feedback_very_seriously">We take all feedback very seriously!</string>
+    <string name="please_let_us_know"><u>Please let us know how we can improve the app and/or our service</u></string>
+    <string name="thank_for_using">Thank for using</string>
+    <string name="profile_details">Profile Details</string>
+    <string name="user_full_name">Full Name</string>
+    <string name="change_password">Change Password</string>
+    <string name="manage_credit_cards">Manage Credit Cards</string>
+    <string name="old_password">Old Password</string>
+    <string name="declined">Declined</string>
+    <string name="view_payments">View Payments</string>
+    <string name="approve_payment_of_the">Approve payment of the %1$s</string>
+    <string name="geek_completed_the_job">%1$s completed the job.</string>
+    <string name="description">Description</string>
+    <string name="hhmm">HH/MM</string>
+    <string name="already_paid">Already paid</string>
+    <string name="remaining_to_pay">Remaining to pay</string>
+    <string name="please_rate_tom_work">Please Rate %1$s work</string>
+    <string name="unmark_as_favorite">Unmark as favorite</string>
+    <string name="rate_geek">Rate %1$s</string>
+    <string name="serviced_by_geek">Serviced by %1$s</string>
+    <string name="if_any_referal_code_please_enter">(If have any referal code please enter)</string>
+    <string name="referal_code">Referal Code</string>
+    <string name="geek_indicated_job_is_completed">%1$s has indicated that the job is completed.</string>
+    <string name="travel_time">Travel Time</string>
+    <string name="labor_time">Labor Job</string>
+    <string name="write_something_about_geek_woek">Write something about %1$s\'s work...</string>
+    <string name="purchage_peer_info"><![CDATA[We\'re sorry to hear that <font color=black>%1$s</font>\'s work did not meet your approval.<br/><br/> if
+ you are willing, <font color=blue><u>please message %2$s</u></font> to  see if  you can  work something out directly with <font color=blue>%3$s</font> to justify <font color=blue><u>approving the work.</u></font><br/><br/>
+Alternatively, you may <font color=blue><u>purchage a peer review from feeresolutions.com</u></font> where three technical peers will review <font color=blue>%4$s</font>\'s notes
+and your report of this experience.<font color=black><b>and determine if a full or partial discount  should  be applied to this service call</b></font>.
+This 3 peers <font color=blue><u>may also decide to  make  your peer review free.</u></font><br/><br/>we take all feedback very seriously!<br/>
+    Please <font color=blue><u>let us know how we can improve our app and/or service.</u></font><br/><br/>
+    (These links also been  sent to [text number  and/or email address])]]></string>
+    <string name="message_geek">Message %1$s</string>
+    <string name="purchage_a_peers">Purchage a peers</string>
+    <string name="No_referal_link_found">Referal link not found</string>
+    <string name="please_add_at_least_one_email_id">Please add atleast one email id.</string>
+    <string name="add_email">Add more email id if you want</string>
+    <string name="account_ledger">Account Ledger</string>
+    <string name="past_service_calls">Past Service Calls</string>
+    <string name="cr_dr">Cr/Dr</string>
+    <string name="credits">Credits ($)</string>
+    <string name="date">Date</string>
+    <string name="work_paused">Work Paused</string>
+    <string name="work_timer_formate">%02d:%02d</string>
+    <string name="service_by_tom">Serviced by  %1$s</string>
+    <string name="dated">Dated:\u0020</string>
+    <string name="job_id">Job Id:</string>
+    <string name="please_provide_the_rating">Please provide the rating</string>
+    <string name="please_add_the_review">Please write the review</string>
+    <string name="dollar">$</string>
+    <string name="please_enter_the_valid_email_id">Please enter the valid email id</string>
+    <string name="geek_break_info">%1$s is taking a break and anticipates returning to the job at</string>
+    <string name="break_title">Break</string>
+    <string name="disable_finger_print">Disable Finger Print</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="enable_finger_print">Enable Finger print</string>
+    <string name="okay">Okay!</string>
+    <string name="position_key">postion_key</string>
+    <string name="regex">T</string>
+    <string name="today">%1$s Today</string>
+    <string name="ask_permission_detail">Permission Overview</string>
+    <string name="write_external_permission_detail">We are used write external storage permission for save geek location image in to the internal memory.</string>
+    <string name="access_coarse_location_detail">We are used access coarse location permission for show geek location on the map.</string>
+    <string name="successfully_purchage_a_peers">Successfully purchage a peer</string>
+    <string name="update_action_pending_job">update.action.pending.job</string>
+    <string name="update_action_time_ui">update.action.time.ui</string>
+    <string name="update_action_time">update.action.time</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+
+    <string name="version_code">"Version %1$s \nPowered by"</string>
+    <string name="my_approvals">My Approvals</string>
+    <string name="order_with_in_the_last_seven_day">Orders within the last 7 days</string>
+    <string name="order_older_than_last_seven_day">Orders older than last 7 days</string>
+    <string name="order_older_then_14_days">Orders older than 14 days</string>
+    <string name="all_order_type">All Order types</string>
+    <string name="disbursement_purchase_orders">Disbursement Purchase Orders Approvals</string>
+    <string name="operational_purchase_orders">Operational Purchase Orders Approvals</string>
+    <string name="disbursement_purchase_orders_with_new_line">Disbursement\nPurchase\nOrders Approvals</string>
+    <string name="operational_purchase_orders_with_new_line">Operational\nPurchase\nOrders Approvals</string>
+    <string name="supplier">Supplier</string>
+    <string name="value">Value</string>
+    <string name="date_created">Date Created</string>
+    <string name="created_by">Created by</string>
+    <string name="search">Search</string>
+    <string name="item">Item</string>
+    <string name="quantity">Quantity</string>
+    <string name="unit_price">Unit Price</string>
+    <string name="approve_order">Approve Order</string>
+    <string name="decline_order">Decline Order</string>
+    <string name="special_instructions_and_motivation">Special Instructions/Motivation</string>
+    <string name="please_enter_the_special_instructions_and_motivation">Please enter the Special Instructions/Motivation</string>
+    <string name="please_enter_the_decline_reason">Please enter the decline Reason</string>
+    <string name="decline_reason">Decline Reason</string>
+    <string name="vat">VAT(15 %)</string>
+    <string name="total_incl_vat">Total Incl VAT</string>
+    <string name="expenses">Expenses</string>
+    <string name="purchase_order_detail">Purchase Order Detail</string>
+    <string name="please_enter_valid_credentials">Please enter valid credentials.</string>
+    <string name="order_successfully_approved">Order successfully approved.</string>
+    <string name="order_successfully_declined">Order successfully Declined.</string>
+    <string name="no_data_available">No data available.</string>
+
+
+    <string name="foody_cookb_book">Foody Cook Book</string>
+    <string name="instruction">Instruction:-</string>
+    <string name="ingredient">Ingredient:-</string>
+    <string name="saved_successfully">Saved Successfully</string>
+    <string name="remove_successfully">Remove Successfully</string>
+</resources>
+

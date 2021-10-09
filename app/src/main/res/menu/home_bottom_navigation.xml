@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_find_a_geek"
+        android:icon="@mipmap/ic_tab_find_a_geek"
+        android:title="@string/find_a_geek" />
+
+    <item
+        android:id="@+id/action_referrel_rewards"
+        android:icon="@mipmap/ic_tab_referral_rewards"
+        android:title="@string/referrel_rewards" />
+
+    <item
+        android:id="@+id/action_my_account"
+        android:icon="@mipmap/ic_tab_myaccount"
+        android:title="@string/my_account"/>
+</menu>
